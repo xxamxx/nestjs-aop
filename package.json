@@ -6,7 +6,7 @@
   "module": "esm/index.js",
   "license": "ISC",
   "engines": {
-    "node": ">=16",
+    "node": ">=v14.19.0",
     "pnpm": "^7"
   },
   "scripts": {
